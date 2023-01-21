@@ -60,6 +60,7 @@ THEN I should have proper build scripts for a webpack application.
 ## Screenshots
 ![ScreenShot](./images/manifestCreated.png)
 ![ScreenShot](./images/jate-screenshot.png)
+![ScreenShot](./images/heroku-deployment.png)
 
 ## Technology
 This project has been created with:
@@ -92,7 +93,7 @@ npm run start
 * Can be installed as a Progressive Web Application
 
 ## Heroku Link
-[Click here for Heroku Link](https://www…)
+[Click here for Heroku Link](https://mysterious-reef-06963.herokuapp.com)
  
 ## Contact Me
 * GitHub: [CheBar1](https://github.com/CheBar1)
